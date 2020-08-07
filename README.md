@@ -10,6 +10,12 @@ Para ver mais iformações sobre a matéria veja o documento:
 - Fernando de Morais
 - Equipe 9
 
+# Laboratórios
+
+- [Lab 01](lab01/)
+
+---
+
 ## Referências
 
 Para execução dos trabalhos foram utilizadas as seguintes referências:
