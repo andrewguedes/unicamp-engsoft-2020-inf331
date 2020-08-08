@@ -13,6 +13,7 @@ Para ver mais iformações sobre a matéria veja o documento:
 # Laboratórios
 
 - [Lab 01](lab01/)
+- [Lab 02](lab02/)
 
 ---
 
@@ -22,3 +23,6 @@ Para execução dos trabalhos foram utilizadas as seguintes referências:
 
 - [[Software] Orange](https://orange.biolab.si/)
 - [[Repositório] component2learn por André Santanchè no Github](https://github.com/santanche/component2learn)
+- [[Software] DCC Playground](https://santanche.github.io/component2learn/labs/02-data-flow_messages/notebooks/messages/dccs/playground/)
+- [[Docs] DCCS Referência](https://ds4h.org/harena-space/src/adonisjs/public/dccs/)
+- [[Docs] Binder Documentation](https://mybinder.readthedocs.io/en/latest/index.html)
